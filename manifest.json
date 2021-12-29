@@ -1,0 +1,15 @@
+{
+  "name": "My test PWA full name",
+  "short_name": "My test PWA short",
+  "description": "My test PWA My test PWA My test PWA My test PWA ",
+  "lang": "en-EN",
+  "start_url": "/PWA",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "\/img\/ms-icon-70x70.png",
+      "sizes": "70x70",
+      "type": "image\/png"
+    }
+  ]
+}
